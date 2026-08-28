@@ -1,5 +1,7 @@
 # [เครื่องใหม่](https://browser.geekbench.com/v7/cpu/208838)
 # [ประวัติรัฐมนตรี](https://de.wikipedia.org/wiki/Loei_(Provinz))
+# [DGA](https://www.dga.or.th/)
+# [ตำแหน่งจังหวัดเลย]
 # DGA Resource Center
 
 This repository contains the documentation website code and Markdown source files for kb.dga.or.th.
